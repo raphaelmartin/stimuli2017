@@ -4,6 +4,8 @@
 
 > Il me semble que la philosophie moderne, peut-être depuis le jour où Kant a posé la question de l'_Aufklärung_, c'est à dire: Qu'est-ce que c'est que notre actualité, qu'est-ce qui se passe autour de nous, qu'est-ce qu'est notre présent ? Qui nous sommes ? Qu'est-ce que c'est que le maintenant ?\[…\]Et c'est en un sens la question de Hegel, la question aussi de Nietsche. La philosophie, parmis différentes fonctions qu'elle peut et qu'elle doit avoir, a aussi celle-là. De s'interroger sur ce que nous sommes dans notre présent et notre actualité —_Michel Foucault_, 1981.
 
+
+
 | Date 📅 | URL 🌍 |
 | :--- | :--- |
 | 21-08 | URL1 |
