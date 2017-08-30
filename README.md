@@ -1,4 +1,4 @@
-# Stimulus
+# Nous vivons moins parmi les choses que parmi une “forêt de symboles”
 
 \`Une réflexion critique sur les médias, qu'on ingurgite chaque jour de manière inconsciente. Il serait faux de n'en rester qu'aux médias officiels, qui s'auto-couronne "médias". Penser aux réseaux sociaux, aux journaux, aux produits, objets, mode, aux discussions de café, à l'atmosphère d'un lieu, d'un temps: ici, maintenant. Et comment tout cela arrive dans la tête des gens? la réception, la création, la production, l'adoption, les tensions. Prendre du recul, saisir la plume, et se demander: qu'est-ce qu'aujourd'hui tout cela m'a fait? qu'est-ce que j'en retiens? Pourquoi on dit cela, de cette manière? est-ce un évènement? Qui? pour qui? Comment? ... To think and experiment with emerging stuff \(read: new behaviours and new technologies, platforms\).Philosophie post-moderne: on ne s'attache pas aux personnes, à Elon Musk ou à Bezos, mais à leurs actions, structures, idéologies qui sont toujours des fondements externes et d'incidences/causes plus générales.\`
 
